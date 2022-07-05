@@ -1,5 +1,9 @@
 {
   "devDependencies": {
     "typescript": "^4.7.4"
+  },
+  "dependencies": {
+    "@grammyjs/menu": "^1.1.2",
+    "grammy": "^1.9.0"
   }
 }
